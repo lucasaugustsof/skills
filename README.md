@@ -1,11 +1,11 @@
 # skills
 
-Minha coleção de skills para o Claude, criadas para me auxiliar no dia a dia.
+My collection of Claude skills, built to help me with my day-to-day work.
 
-Cada skill fica em uma pasta própria, com um `SKILL.md` que explica quando ela deve ser usada e como ela trabalha.
+Each skill lives in its own folder, with a `SKILL.md` that explains when it should be used and how it works.
 
 ## Skills
 
-| Skill | Descrição |
+| Skill | Description |
 | --- | --- |
-| [`semantic-html`](./semantic-html) | Revisa, reescreve e explica a semântica de HTML5 (tags, landmarks, headings, formulários, ARIA). |
+| [`semantic-html`](./semantic-html) | Reviews, rewrites and explains HTML5 semantics (tags, landmarks, headings, forms, ARIA). |
