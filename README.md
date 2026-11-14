@@ -7,3 +7,4 @@ Each skill lives in its own folder, with a `SKILL.md` that explains when it shou
 | Skill | Description |
 | --- | --- |
 | [`semantic-html`](./semantic-html) | Reviews, rewrites and explains HTML5 semantics (tags, landmarks, headings, forms, ARIA). |
+| [`explain-simply`](./explain-simply) | Explains any concept in a simple, connected, practical way, one step at a time, built for a learner with ADHD. |
